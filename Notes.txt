@@ -1,1 +1,2 @@
 This is A notes file and will contain info about the Project
+Now we are ready for Version 1.5 and this will be major release
