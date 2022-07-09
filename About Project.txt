@@ -1,0 +1,2 @@
+This contains C# console App
+This is version 1.0
